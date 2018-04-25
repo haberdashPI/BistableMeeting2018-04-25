@@ -42,6 +42,7 @@
 <img src="assets/pipeline_part2_08.png" class="fragment"/>
 <img src="assets/pipeline_part2_09.png" class="fragment"/>
 <img src="assets/pipeline_part2_10.png" class="fragment"/>
+<img src="assets/pipeline_part2_11.png" class="fragment"/>
 </div>
 
 ---
