@@ -12,19 +12,19 @@
 ### Feature-level Analysis
 
 <div class="build">
-<img src="assets/pipelines_part1_01.png" class="fragment"/>
-<img src="assets/pipelines_part1_02.png" class="fragment"/>
-<img src="assets/pipelines_part1_03.png" class="fragment"/>
-<img src="assets/pipelines_part1_04.png" class="fragment"/>
-<img src="assets/pipelines_part1_05.png" class="fragment"/>
-<img src="assets/pipelines_part1_06.png" class="fragment"/>
-<img src="assets/pipelines_part1_07.png" class="fragment"/>
-<img src="assets/pipelines_part1_08.png" class="fragment"/>
-<img src="assets/pipelines_part1_09.png" class="fragment"/>
-<img src="assets/pipelines_part1_10.png" class="fragment"/>
-<img src="assets/pipelines_part1_11.png" class="fragment"/>
-<img src="assets/pipelines_part1_12.png" class="fragment"/>
-<img src="assets/pipelines_part1_13.png" class="fragment"/>
+<img src="assets/pipeline_part1_01.png" class="fragment"/>
+<img src="assets/pipeline_part1_02.png" class="fragment"/>
+<img src="assets/pipeline_part1_03.png" class="fragment"/>
+<img src="assets/pipeline_part1_04.png" class="fragment"/>
+<img src="assets/pipeline_part1_05.png" class="fragment"/>
+<img src="assets/pipeline_part1_06.png" class="fragment"/>
+<img src="assets/pipeline_part1_07.png" class="fragment"/>
+<img src="assets/pipeline_part1_08.png" class="fragment"/>
+<img src="assets/pipeline_part1_09.png" class="fragment"/>
+<img src="assets/pipeline_part1_10.png" class="fragment"/>
+<img src="assets/pipeline_part1_11.png" class="fragment"/>
+<img src="assets/pipeline_part1_12.png" class="fragment"/>
+<img src="assets/pipeline_part1_13.png" class="fragment"/>
 </div>
 
 ---
@@ -32,16 +32,16 @@
 ### Object-level Analysis
 
 <div class="build">
-<img src="assets/pipelines_part2_01.png" class="fragment"/>
-<img src="assets/pipelines_part2_02.png" class="fragment"/>
-<img src="assets/pipelines_part2_03.png" class="fragment"/>
-<img src="assets/pipelines_part2_04.png" class="fragment"/>
-<img src="assets/pipelines_part2_05.png" class="fragment"/>
-<img src="assets/pipelines_part2_06.png" class="fragment"/>
-<img src="assets/pipelines_part2_07.png" class="fragment"/>
-<img src="assets/pipelines_part2_08.png" class="fragment"/>
-<img src="assets/pipelines_part2_09.png" class="fragment"/>
-<img src="assets/pipelines_part2_10.png" class="fragment"/>
+<img src="assets/pipeline_part2_01.png" class="fragment"/>
+<img src="assets/pipeline_part2_02.png" class="fragment"/>
+<img src="assets/pipeline_part2_03.png" class="fragment"/>
+<img src="assets/pipeline_part2_04.png" class="fragment"/>
+<img src="assets/pipeline_part2_05.png" class="fragment"/>
+<img src="assets/pipeline_part2_06.png" class="fragment"/>
+<img src="assets/pipeline_part2_07.png" class="fragment"/>
+<img src="assets/pipeline_part2_08.png" class="fragment"/>
+<img src="assets/pipeline_part2_09.png" class="fragment"/>
+<img src="assets/pipeline_part2_10.png" class="fragment"/>
 </div>
 
 ---
