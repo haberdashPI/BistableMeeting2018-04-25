@@ -1,0 +1,33 @@
+.reveal h1, .reveal h2 {
+    vertical-align: top;
+}
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+  max-height: 40vh;
+  max-width: 65vw;
+  min-width: 25vw;
+  margin: auto;
+  display:block;
+}
+
+.comment {
+    position: fixed;
+    bottom: 20pt;
+    right: 0pt;
+    font-size: 10pt !important;
+    text-align: right;
+}
+
+.reveal .slides {
+    text-align: left;
+}
+
+.build {
+  position: relative;
+}
+
+div.build > img {
+  position: absolute;
+}
