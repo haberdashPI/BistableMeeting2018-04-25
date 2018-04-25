@@ -68,7 +68,7 @@
 - Generates only 1-stream responses 
 
 Bistable weights of each frequency channel:
-<img src="assets/bistable_freq_01.png" class="fragment"/>
+<img src="assets/bistable_freq_01.png"/>
 
 ---
 
