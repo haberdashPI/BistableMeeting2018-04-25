@@ -49,6 +49,9 @@
 
 ### Where Could Bistability Arise?
 
+- Blue Arrow = Locations discussed here
+- White Arrow = Locations in-progress
+
 <div class="build">
 <img src="assets/bistability_locus_01.png" class="fragment"/>
 <img src="assets/bistability_locus_02.png" class="fragment"/>
